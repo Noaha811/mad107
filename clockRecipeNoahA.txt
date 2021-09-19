@@ -1,0 +1,19 @@
+Lets:
+
+convert = 60 (for converting seconds -> minutes, and minutes -> hours)
+newDay = 24 (for resetting hours after it reaches 24)
+
+
+Vars:
+
+seconds
+minutes
+hours
+
+Calculations and Flow Control:
+
+print the current time in 12-hour format
+add to seconds, minutes, and hours
+
+if statements for checking if seconds or minutes is over 60, and if hours is over 24
+if statement for checking if the time is in AM or PM
