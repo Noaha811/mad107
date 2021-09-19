@@ -9,6 +9,7 @@ Vars:
 seconds
 minutes
 hours
+timeString
 
 Calculations and Flow Control:
 
@@ -17,3 +18,11 @@ add to seconds, minutes, and hours
 
 if statements for checking if seconds or minutes is over 60, and if hours is over 24
 if statement for checking if the time is in AM or PM
+
+Directions:
+make an app representing a clock by using these variables
+use seconds, minutes, and hours to keep track of seconds, minutes, and hours, respectively. 
+use the lets to convert seconds to minutes, and minutes to hours once they are above or at 60, and hours reset back to 0 upon hitting 24
+combine the int values into a string and put it into timeString for easy printing
+add time in different increments, then print out the time at 3 different points after adding values to seconds, minutes, and hours
+
