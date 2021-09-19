@@ -16,8 +16,8 @@ Calculations and Flow Control:
 print the current time in 12-hour format
 add to seconds, minutes, and hours
 
-while loop checking if seconds and minutes are still over 60
-if statements for checking if seconds or minutes is over 60, and if hours is over 24
+while loops checking if seconds and minutes are still over 60
+if statements for checking if hours is over 24
 if statement for checking if the time is in AM or PM
 
 Directions:
