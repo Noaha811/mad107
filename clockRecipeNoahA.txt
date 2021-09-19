@@ -17,7 +17,7 @@ print the current time in 12-hour format
 add to seconds, minutes, and hours
 
 while loops checking if seconds and minutes are still over 60
-if statements for checking if hours is over 24
+if statements for checking if hours is over 24, and if seconds/minutes are over 60
 if statement for checking if the time is in AM or PM
 
 Directions:
